@@ -30,6 +30,8 @@ The dashboard helps users monitor sales metrics and make data-driven business de
 * Customer Type Analysis
 * Interactive Filters (Slicers)
 * Geographic Sales Visualization
+  <img width="1917" height="1025" alt="dashboard" src="https://github.com/user-attachments/assets/bba2c674-1052-4589-ab21-ae5095a42eff" />
+
   
   Zapier Automation
 The project includes Zapier workflows to automate repetitive tasks and improve productivity by connecting different applications.
